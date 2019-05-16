@@ -40,7 +40,7 @@ hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin:
 input, select { vertical-align: middle; }
 
 body{
-	background: url('img/background.jpg');
+	background: url ('https://farm5.staticflickr.com/4400/36747548385_fc2f5e1e3c_o.jpg');
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
@@ -101,25 +101,25 @@ p{
 }
 
 #instagram{
-	background: url("img/sprites.png") no-repeat 0 0;
+	background: url("https://farm5.staticflickr.com/4332/35913353324_592aa9488e_o.png") no-repeat 0 0;
 }
 
  #instagram a:hover{
-	background: url("img/sprites.png") 0px -32px;
+	 background: url("https://farm5.staticflickr.com/4332/35913353324_592aa9488e_o.png") 0px -32px;
  }
-
+ 
 #twitter{
-	background: url("img/sprites.png") -34px 0px;
+	background: url("https://farm5.staticflickr.com/4332/35913353324_592aa9488e_o.png") -34px 0px;
 }
 
 #twitter a:hover{
-	background: url("img/sprites.png") -34px -32px;
+	background: url("https://farm5.staticflickr.com/4332/35913353324_592aa9488e_o.png") -34px -32px;
 }
 
 #dribble{
-	background: url("img/sprites.png") -66px 0px;
+	background: url("https://farm5.staticflickr.com/4332/35913353324_592aa9488e_o.png") -66px 0px;
 }
 
 #dribble a:hover{
-	background: url("img/sprites.png") -66px -32px;
+	background: url("https://farm5.staticflickr.com/4332/35913353324_592aa9488e_o.png") -66px -32px;
 }
