@@ -1,11 +1,13 @@
 # Sarah Bartley Resume Site
-Skillcrush 101 Resume Website. Made with HTML &amp; CSS
+Skillcrush 101 project from August 2015 Skillcrush 101 course. This is a sample resume web page.
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on a design created by Skillcrush. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
 
 ## Acknowledgements
 * Skillcrush
